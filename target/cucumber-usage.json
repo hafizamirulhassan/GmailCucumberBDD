@@ -1,0 +1,60 @@
+[
+  {
+    "source": "^get the title of gmail login page and verify$",
+    "steps": [
+      {
+        "name": "get the title of gmail login page and verify",
+        "aggregatedDurations": {
+          "average": 0.1409501,
+          "median": 0.1409501
+        },
+        "durations": [
+          {
+            "duration": 0.1409501,
+            "location": "src/test/java/Features/GmailLogin.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user opens Google page$",
+    "steps": [
+      {
+        "name": "user opens Google page",
+        "aggregatedDurations": {
+          "average": 11.87285655,
+          "median": 11.87285655
+        },
+        "durations": [
+          {
+            "duration": 12.8985064,
+            "location": "src/test/java/Features/GmailLogin.feature:5"
+          },
+          {
+            "duration": 10.8472067,
+            "location": "src/test/java/Features/GmailLogin.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^close the browser$",
+    "steps": [
+      {
+        "name": "close the browser",
+        "aggregatedDurations": {
+          "average": 1.1757934,
+          "median": 1.1757934
+        },
+        "durations": [
+          {
+            "duration": 1.1757934,
+            "location": "src/test/java/Features/GmailLogin.feature:14"
+          }
+        ]
+      }
+    ]
+  }
+]
